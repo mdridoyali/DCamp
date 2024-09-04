@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/XWVBPKq/image.png",
+        "image_don": "https://i.ibb.co/XWVBPKq/image.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_color": "#0052FF",
+        "description": "There are many things that can be done to ensure that all people have access to a good health. Governments can invest in hospitals, provide financial assistance to the patients, and make sure that all hospitals have qualified doctors.",
+        "price": 290.00,
+        "col": "#bf08ad"
+      },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/PhW7VWc/Education.png",
+        "image_don": "https://i.ibb.co/0mDPCLs/Education-don.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+      },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/JcnxhC5/Clothing.png",
+        "image_don": "https://i.ibb.co/RCvpRhF/Clothing-don.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#D4ECC1",
+        "card_bg": "#EBF6E2",
+        "text_color": "#79C23F",
+        "description": "A used clothing drive collects gently worn garments for distribution to those in need. Organized by schools, nonprofits, or businesses, these initiatives promote sustainability and assist underserved communities, including low-income individuals and disaster victims. They encourage community involvement, emphasize giving back, and support sustainable practices while helping people facing economic challenges.",
+        "price": 290.00
+      },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/0fnRdJx/Food.png",
+        "image_don": "https://i.ibb.co/6mxLMqv/Food-don.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#FDD2C4",
+        "card_bg": "#FEEAE3",
+        "text_color": "#F87147",
+        "description": "Better Food for Everyone is an initiative dedicated to improving access to nutritious and sustainable food options. It seeks to address food insecurity and promote healthier eating habits while minimizing the environmental impact of food production. By fostering community involvement and supporting local agriculture, it aims to create a healthier, more equitable food system.",
+        "price": 290.00
+      },
+    {
+        "id": "5",
+        "image": "https://i.ibb.co/JcnxhC5/Clothing.png",
+        "image_don": "https://i.ibb.co/RCvpRhF/Clothing-don.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#D4ECC1",
+        "card_bg": "#EBF6E2",
+        "text_color": "#79C23F",
+        "description": "A used clothing drive collects gently worn garments for distribution to those in need. Organized by schools, nonprofits, or businesses, these initiatives promote sustainability and assist underserved communities, including low-income individuals and disaster victims. They encourage community involvement, emphasize giving back, and support sustainable practices while helping people facing economic challenges.",
+        "price": 290.00
+      },
+    {
+        "id": "6",
+        "image": "https://i.ibb.co/0fnRdJx/Food.png",
+        "image_don": "https://i.ibb.co/6mxLMqv/Food-don.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#FDD2C4",
+        "card_bg": "#FEEAE3",
+        "text_color": "#F87147",
+        "description": "Better Food for Everyone is an initiative dedicated to improving access to nutritious and sustainable food options. It seeks to address food insecurity and promote healthier eating habits while minimizing the environmental impact of food production. By fostering community involvement and supporting local agriculture, it aims to create a healthier, more equitable food system.",
+        "price": 290.00
+      },
+      {
+        "id": "7",
+        "image": "https://i.ibb.co/XWVBPKq/image.png",
+        "image_don": "https://i.ibb.co/XWVBPKq/image.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_color": "#0052FF",
+        "description": "There are many things that can be done to ensure that all people have access to a good health. Governments can invest in hospitals, provide financial assistance to the patients, and make sure that all hospitals have qualified doctors.",
+        "price": 290.00
+      },
+    {
+        "id": "8",
+        "image": "https://i.ibb.co/PhW7VWc/Education.png",
+        "image_don": "https://i.ibb.co/0mDPCLs/Education-don.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+      },
+      {
+        "id": "9",
+        "image": "https://i.ibb.co/XWVBPKq/image.png",
+        "image_don": "https://i.ibb.co/XWVBPKq/image.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_color": "#0052FF",
+        "description": "There are many things that can be done to ensure that all people have access to a good health. Governments can invest in hospitals, provide financial assistance to the patients, and make sure that all hospitals have qualified doctors.",
+        "price": 290.00
+      },
+    {
+        "id": "10",
+        "image": "https://i.ibb.co/PhW7VWc/Education.png",
+        "image_don": "https://i.ibb.co/0mDPCLs/Education-don.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_color": "#FF444A",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290.00
+      },
+    {
+        "id": "11",
+        "image": "https://i.ibb.co/JcnxhC5/Clothing.png",
+        "image_don": "https://i.ibb.co/RCvpRhF/Clothing-don.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#D4ECC1",
+        "card_bg": "#EBF6E2",
+        "text_color": "#79C23F",
+        "description": "A used clothing drive collects gently worn garments for distribution to those in need. Organized by schools, nonprofits, or businesses, these initiatives promote sustainability and assist underserved communities, including low-income individuals and disaster victims. They encourage community involvement, emphasize giving back, and support sustainable practices while helping people facing economic challenges.",
+        "price": 290.00
+      },
+    {
+        "id": "12",
+        "image": "https://i.ibb.co/0fnRdJx/Food.png",
+        "image_don": "https://i.ibb.co/6mxLMqv/Food-don.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#FDD2C4",
+        "card_bg": "#FEEAE3",
+        "text_color": "#F87147",
+        "description": "Better Food for Everyone is an initiative dedicated to improving access to nutritious and sustainable food options. It seeks to address food insecurity and promote healthier eating habits while minimizing the environmental impact of food production. By fostering community involvement and supporting local agriculture, it aims to create a healthier, more equitable food system.",
+        "price": 290.00
+      }
+]
+
+
+
+
+
